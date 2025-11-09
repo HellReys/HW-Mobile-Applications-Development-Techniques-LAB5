@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="hint_search">Enter currency code (e.g. EUR)</string>
+</resources>
